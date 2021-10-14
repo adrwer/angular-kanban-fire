@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  firebaseConfig: {
+  firebase: {
     apiKey: "AIzaSyBIJd7v2aOwk-5R9xvxSznc6wmk7mVbDXQ",
     authDomain: "kanbanfire-b6381.firebaseapp.com",
     projectId: "kanbanfire-b6381",
