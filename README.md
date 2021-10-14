@@ -1,6 +1,8 @@
 # AngularKanbanFire
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
+This project is a Kanban board built using Angular and Firebase.
+
+It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2. and later updated to 12.2.10.
 
 ## Development server
 
